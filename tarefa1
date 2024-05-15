@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilo.css">
+    </head>
+<body>
+<p>cada tabela começa com uma tag.<br>
+cada linha da cabela começa com uma tag tr.<br>
+cada da do da tabela começa com uma tag td.
+    </p>
+
+<h4>Uma coluna:</h4>
+<tabele border="1">
+    </tr>
+<td>100</td>
+    </tabele>
+
+<h4>uma linha e três colunhas:</h4>
+<table border="1">
+    </tr>
+<td>100</td>
+<td>200</td>
+<td>300</td>
+    </table>
+
+<h4>duas Linhas e três colunas:</h4>
+<table border="1">
+    </tr>
+<td>100</td>
+<td>200</td>
+<td>300</td>
+    </tr>
+    <tr>
+<td>400</td>
+<td>500</td>
+<td>600</td>
+    </tr>
+    </table>"
+
+<h4>duas linhas e tres colunas.:</h4>
+<table border="0">
+<td>
+<td>100</td>
+<td>200</td>
+<td>300</td>
+    </td>
+<tr>
+<td>400</td>
+<td>500</td>
+<td>600</td>
+</tr>>
+</table>
+
+<h4>Sem preenchimento da célula:</h4>
+<table border="1">
+<tr>
+<td>primeira</td>
+<td>linha</td>
+</tr>
+<tr>
+<td>segunda</td>
+<td>linha</td>
+</tr>
+</table>
+
+<h4>Com preechimento da célula:</h4>
+<table border="1" cellpadding="10">
+<tr>
+<td>primeira</td>
+<td>linha</td>
+</tr>
+<tr>
+<td>segunga</td>
+<td>linha</td>
+</tr>
+</table>
+
+<h1>Imagens</h1>
+<div id="areaimagem">
+<img src="https://th.bing.com/th/id/OIP.qUubWMiIMnG297Q4C6mclgHaFj?rs=1&pid=ImgDetMain" alt="agrofloresta" />
+<height="120" width="140">
+<p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/A1KwKkh-03c?si=vskYPXXMh6pzPyre&amp;start=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe
+    title="geometria"
+    target="_blank"
+    img src="https://th.bing.com/th/id/OIP.qUubWMiIMnG297Q4C6mclgHaFj?rs=1&pid=ImgDetMain" alt="agrofloresta" />
+</a> </p>
+</div>
+</body>
+</html>
